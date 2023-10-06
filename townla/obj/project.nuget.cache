@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NaACt5REh7pQsmYEzrYlYaXe85/8mC/ns0wG82s0GDochoBoJVLvpoT2A2YeVx7l+eprWLEhIsf0zbY/YCfDOA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Seba Castro\\Documents\\Prueba\\townla\\townla.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Seba Castro\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Seba Castro\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
