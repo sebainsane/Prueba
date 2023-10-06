@@ -1,0 +1,10 @@
+c:\Users\Seba Castro\Documents\Prueba\townla\bin\Debug\townla.dacpac
+c:\Users\Seba Castro\Documents\Prueba\townla\bin\Debug\townla.dll
+c:\Users\Seba Castro\Documents\Prueba\townla\bin\Debug\townla.pdb
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\townla.sqlproj.AssemblyReference.cache
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\Model.xml
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\refactor.xml
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\postdeploy.sql
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\predeploy.sql
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\townla.dll
+c:\Users\Seba Castro\Documents\Prueba\townla\obj\Debug\townla.pdb
